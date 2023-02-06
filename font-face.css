@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Viktor Script';
+    src: url('ViktorScript-Regular.eot');
+    src: url('ViktorScript-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ViktorScript-Regular.woff2') format('woff2'),
+        url('ViktorScript-Regular.woff') format('woff'),
+        url('ViktorScript-Regular.ttf') format('truetype'),
+        url('ViktorScript-Regular.svg#ViktorScript-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
